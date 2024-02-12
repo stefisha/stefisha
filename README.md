@@ -1,6 +1,6 @@
 - 👋 Greetings! My name is Stefan, a recent Master of Engineering graduate specializing in Software Engineering from the University of Belgrade's School of Electrical Engineering. My academic focus has been on data analysis and distributed computing, areas in which I am keen to further develop my expertise.
 
-- 🔍 My professional interests are broad, encompassing the latest advancements in artificial intelligence and blockchain technologies, while at the same time I have a passion for web development and DevOps. Through my studies and personal projects, I have cultivated a diverse skill set that I am eager to apply in a dynamic work environment.
+- 🔍 My professional interests are broad, encompassing the latest advancements in artificial intelligence and blockchain technologies, while at the same time I have a passion for cyber secyrity and DevOps. Through my studies and personal projects, I have cultivated a diverse skill set that I am eager to apply in a dynamic work environment.
 
 - 🌱 I am actively seeking career opportunities that promise not only interesting and challenging work but also the potential for significant professional growth. My goal is to excel as an engineer and to become a recognized expert in AI and Data Science.
 
