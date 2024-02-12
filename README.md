@@ -5,6 +5,6 @@
 - 📫 You can reach me trhough the socials listed on my profile. Or you can just jump in my mailbox at stefanhrmai@gmail.com
 
 <!---
-stefisha/Stefi96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+stefisha/stefisha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
