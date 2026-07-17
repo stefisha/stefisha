@@ -5,7 +5,7 @@
    I build scalable AI platforms, enterprise RAG systems, and decentralized developer tooling. I'm currently focused on fintech automation at **FIS** and bridging open-source with Web3 payments as the Co-Founder of **GitWork**.
 
    ### 🚀 What I'm doing right now
-   * 🏢 **@ FIS:** Architecting enterprise AI agents, Retrieval-Augmented Generation (RAG) systems, and anomaly detection models to optimize Capital Markets infrastructure.
+   * 🏢 **@ Sokin:** Architecting enterprise AI agents, code review systems, Retrieval-Augmented Generation (RAG) systems, all to facilitate cross-border payments.
    * 🛠️ **@ GitWork:** Building an open-source platform that integrates directly with GitHub to automate issue discovery and distribute crypto bounties (Solana).
 
    ### 🧠 My Expertise
