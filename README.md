@@ -44,7 +44,6 @@
 
    # 📊 GitHub Stats:
    ![GitHub profile summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stefisha&theme=github_dark)<br/>
-   ![GitHub streak](https://streak-stats.demolab.com?user=stefisha&theme=highcontrast&hide_border=false)<br/>
    ![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=stefisha&theme=github_dark)
    ![Top languages by repository](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=stefisha&theme=github_dark)
 
