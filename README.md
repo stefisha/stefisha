@@ -43,9 +43,10 @@
    ---
 
    # 📊 GitHub Stats:
-   ![](https://github-readme-stats.vercel.app/api?username=stefisha&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
-   ![](https://github-readme-streak-stats.herokuapp.com/?user=stefisha&theme=highcontrast&hide_border=false)<br/>
-   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=stefisha&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+   ![GitHub profile summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stefisha&theme=github_dark)<br/>
+   ![GitHub streak](https://streak-stats.demolab.com?user=stefisha&theme=highcontrast&hide_border=false)<br/>
+   ![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=stefisha&theme=github_dark)
+   ![Top languages by repository](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=stefisha&theme=github_dark)
 
    ---
-   ![](https://komarev.com/ghpvc/?username=stefisha)
+   ![Profile views](https://komarev.com/ghpvc/?username=stefisha)
