@@ -64,9 +64,11 @@ Schedule a 30-minute get-to-know call: https://calendly.com/stefan-velickovic/30
 ---
 
 ## 📊 GitHub Stats:
-![GitHub profile summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stefisha&theme=github_dark)<br/>
-![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=stefisha&theme=github_dark)
-![Top languages by repository](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=stefisha&theme=github_dark)
+![GitHub stats](./profile/stats.svg)
+![Top languages by code size](./profile/top-langs.svg)
+
+<!-- Cards refresh daily via .github/workflows/update-profile-cards.yml.
+     Failed refreshes preserve the last successful cards. -->
 
 ---
 ![Profile views](https://komarev.com/ghpvc/?username=stefisha)
