@@ -17,6 +17,7 @@ I build scalable AI platforms, enterprise RAG systems, and decentralized develop
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/stefan-velickovic)
 [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/stefisha_)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/svelichko_)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025.svg?logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/15725801/stefisha)
 
 ## 📞 Let's connect:
 Schedule a 30-minute get-to-know call: https://calendly.com/stefan-velickovic/30min
