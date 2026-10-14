@@ -72,4 +72,4 @@ Schedule a 30-minute get-to-know call: https://calendly.com/stefan-velickovic/30
      Failed refreshes preserve the last successful cards. -->
 
 ---
-![Profile views](https://komarev.com/ghpvc/?username=stefisha)
+[![Profile views](https://komarev.com/ghpvc/?username=stefisha&color=blue&style=flat)](https://github.com/antonkomarev/github-profile-views-counter)
