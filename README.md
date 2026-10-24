@@ -1,22 +1,24 @@
 # 👋 Hi, I'm Stefan Veličković
 
-**AI & Software Engineer | MLOps & Web3 Builder | Co-Founder of GitWork**
+**Senior Software Engineer | Agentic AI, Secure Tool Use & Fintech**
 
-I build scalable AI platforms, enterprise RAG systems, and decentralized developer tooling. I'm currently focused on fintech automation at **Sokin** and bridging open-source with Web3 payments as the Co-Founder of **GitWork**.
+I build agentic AI systems, secure tool integrations, and reliable automation. My focus is applied AI, Retrieval-Augmented Generation (RAG), and dependable software for financial services. I previously co-founded **[GitWork](https://github.com/stefisha/GitWork)**, an open-source developer platform that is currently on hiatus.
 
 ## 🚀 What I'm doing right now
-* 🏢 **@ Sokin:** Architecting enterprise AI agents, code review systems, Retrieval-Augmented Generation (RAG) systems, all to facilitate cross-border payments.
-* 🛠️ **@ GitWork:** Building an open-source platform that integrates directly with GitHub to automate issue discovery and distribute crypto bounties (Solana).
+* 🏢 **@ Sokin:** Senior Software Engineer working in financial services.
+* 🧠 **Focus:** Agentic AI, secure tool use, RAG, and reliable automation.
+* 🛠️ **Previously:** Co-founded GitWork, connecting GitHub issues with Solana bounties. The project is currently on hiatus.
 
 ## 🧠 My Expertise
-* **AI & Machine Learning:** LLM orchestration (LangChain), AI Agents, RAG architectures, predictive anomaly detection.
-* **Infrastructure & MLOps:** Containerization (Docker/K8s), CI/CD pipelines, secure enterprise cloud deployments.
-* **Web3 & Fintech:** Solana blockchain integration, high-throughput financial data APIs, secure automation workflows.
+* **AI Engineering:** Agentic AI, secure LLM tool use, LLM orchestration (LangChain), RAG architectures, applied machine learning.
+* **Infrastructure & DevOps:** Containerization (Docker/K8s), CI/CD pipelines, secure enterprise cloud deployments.
+* **Backend & Fintech:** Python, API integration, financial workflows, secure automation.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/stefan-velickovic)
+## 🌐 Find me online:
+[![Website](https://img.shields.io/badge/Website-2563EB.svg?logo=googlechrome&logoColor=white)](https://stefisha.me/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stefan-velickovic/)
 [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/stefisha_)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/svelichko_)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/svelichko_)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025.svg?logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/15725801/stefisha)
 
 ## 📞 Let's connect:
