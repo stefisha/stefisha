@@ -7,7 +7,7 @@ I build agentic AI systems, secure tool integrations, and reliable automation. M
 ## 🚀 What I'm doing right now
 * 🏢 **@ Sokin:** Senior Software Engineer working in financial services.
 * 🧠 **Focus:** Agentic AI, secure tool use, RAG, and reliable automation.
-* 🌱 Also involved with **[Joint Venture](https://jointventurefi.com/)** alongside my main role.
+* 🌱 Co-founded **[Joint Venture](https://jointventurefi.com/)** and remain involved alongside my main role.
 * 🛠️ **Previously:** Co-founded GitWork, connecting GitHub issues with Solana bounties. The project is currently on hiatus.
 
 ## 🧠 My Expertise
