@@ -1,4 +1,6 @@
-![Stefan Veličković · Software Engineering and AI](assets/banner.png)
+<p align="center">
+  <img src="assets/banner.png" alt="Stefan Veličković · Software Engineering and AI" width="640">
+</p>
 
 ## Hi, I’m Stefan 👋
 
