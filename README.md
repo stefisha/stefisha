@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Stefan Veličković · Software Engineering and AI" width="640">
+  <img src="assets/banner-wide.png" alt="Stefan Veličković · Software Engineering and AI" width="100%">
 </p>
 
 ## Hi, I’m Stefan 👋
