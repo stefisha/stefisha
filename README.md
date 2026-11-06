@@ -12,9 +12,9 @@ I hold an MSc from the University of Belgrade, School of Electrical Engineering.
 
 ### 🚀 Work & ventures
 
-- 🏢 **Sokin:** Senior Software Engineer working on AI integrations and financial services.
-- 🌱 **[Joint Venture](https://jointventurefi.com/):** Co-founder, remaining involved alongside my main role.
-- 🛠️ **Previously, [GitWork](https://github.com/stefisha/GitWork):** Co-founded a platform connecting GitHub contributions with Solana bounties. The project is now retired.
+- 🏢 **Sokin:** Senior Software Engineer working on MCP integrations and an AI assistant for financial services, with end-to-end responsibility spanning architecture, backend development and infrastructure decisions, in collaboration with frontend engineers and CloudOps.
+- 🌱 **[Joint Venture](https://jointventurefi.com/):** Co-founder contributing to technical decisions, including platform architecture, infrastructure and onchain integrations, alongside my main role.
+- 🛠️ **Previously, [GitWork](https://github.com/stefisha/GitWork):** Responsible for architecture, full-stack development, deployment and maintenance of a GitHub bounty platform powered by Solana, with 5+ projects onboarded and $1K+ paid out in its first three weeks. The project is now retired.
 
 ## 🌐 Find me online:
 [![Website](https://img.shields.io/badge/Website-2563EB.svg?logo=googlechrome&logoColor=white)](https://stefisha.me/)
