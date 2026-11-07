@@ -27,7 +27,7 @@ I hold an MSc from the University of Belgrade, School of Electrical Engineering.
 
 Happy to connect about AI engineering, fintech, or building useful software.
 
-[📅 Book a 30-minute chat](https://calendly.com/stefan-velickovic/30min) · [✉️ Email me](mailto:stefanhrmail@gmail.com)
+[📅 Book a 30-minute chat](https://calendly.com/stefan-velickovic/30min) · [✉️ Email me](mailto:stefan@stefisha.me)
 
 ---
 
